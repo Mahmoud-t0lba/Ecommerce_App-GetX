@@ -1,6 +1,4 @@
-import 'package:ecommerce_app/color.dart';
 import 'package:ecommerce_app/core/view_model/home_view_model.dart';
-import 'package:ecommerce_app/view/daetilas_view.dart';
 import 'package:ecommerce_app/view/widgets/custom_text.dart';
 import 'package:ecommerce_app/view/widgets/listViewCategory.dart';
 import 'package:ecommerce_app/view/widgets/listViewProducts.dart';
